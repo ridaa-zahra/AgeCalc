@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #03A9F5;
+    background-color: #ebaddb;
 }
 .container{
     width: 450px;
@@ -51,7 +51,7 @@ body{
     outline: none;
     border-radius: 5px;
     font-weight: 500;
-    background-color: #03A9F5;
+    background-color: #ebaddb;
     color: #ffff;
 }
 .container .content{
@@ -70,7 +70,7 @@ body{
 .container .content .year p,.month p,.day p{
     font-size: 40px;
     font-weight: 500px;
-    color: #03A9F5;
+    color: #ebaddb;
 }
 .container .content .year h5,.month h5,.day h5{
     font-size: 12px;
